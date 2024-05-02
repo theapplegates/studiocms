@@ -1,6 +1,7 @@
 {
   "extends": "astro/tsconfigs/strictest",
   "compilerOptions": {
-    "outDir": "../../.moon/cache/types/packages/studioCMS"
+    "outDir": "../../.moon/cache/types/packages/studioCMS",
+    "module": "NodeNext"
   }
 }
